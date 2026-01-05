@@ -216,5 +216,3 @@ concordance_pop_vers_2007 = concordance_vs_ref(classements_pop, "Pop 2007")
 concordance_dens_vers_2007 = concordance_vs_ref(classements_dens, "Densité 2007")
 print_concordance("Concordance des classements population vs 2007:", concordance_pop_vers_2007)
 print_concordance("Concordance des classements densite vs 2007:", concordance_dens_vers_2007)
-
-
